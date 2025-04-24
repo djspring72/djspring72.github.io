@@ -1,0 +1,4 @@
+1. It took me about 2 to 3 hours to complete the assignment.
+2. I enjoyed watching how the visualizations changed when clicking on different items.
+3. I struggled with some of the data naming, I had problems reading in the data.
+4. I used ChatGPT to simplify the instructions into simpler steps, as well as with git hub instructions.
