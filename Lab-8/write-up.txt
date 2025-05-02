@@ -1,4 +1,5 @@
-1
-2
-3
-4
+1. ./images/screenshot-mobile.png and ./images/screenshot-web.png
+2. Lab 8 took about 4 hours
+3. I had fun working with my webpage
+4. I struggled very badly with GITHUB
+5. Dr. Williams
