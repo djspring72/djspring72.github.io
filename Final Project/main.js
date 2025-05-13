@@ -148,10 +148,10 @@ const stats = getFilteredStats(key, filters);
 layer.bindPopup(`
 <strong>${name} County</strong><br>
 Total Score: ${stats.score}<br>
-1st Place: ${stats.first}<br>
-2nd Place: ${stats.second}<br>
-3rd Place: ${stats.third}<br>
-MOW: ${stats.mow}
+1st Placers: ${stats.first}<br>
+2nd Placers: ${stats.second}<br>
+3rd Placers: ${stats.third}<br>
+Most Outstanding Wrestlers: ${stats.mow}
 `);
 
 if (!seen.has(key)) {
