@@ -1,0 +1,1675 @@
+{
+  "catawba": {
+    "2021": {
+      "106": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "113": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "126": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "157/160": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "165/170": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "175/182": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "190/195": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "215/220": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "285": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2022": {
+      "106": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "120": {
+        "first": 0,
+        "second": 1,
+        "third": 1,
+        "mow": 0,
+        "score": 3
+      },
+      "126": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "132": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "138": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "144/145": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "150/152": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "157/160": {
+        "first": 1,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 5
+      },
+      "165/170": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "190/195": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "215/220": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "285": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2023": {
+      "138": {
+        "first": 1,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 4
+      },
+      "157/160": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "165/170": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "190/195": {
+        "first": 1,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 4
+      },
+      "285": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2024": {
+      "113": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "120": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "138": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "175/182": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "190/195": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "215/220": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "113": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "144/145": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "157/160": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "165/170": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "215/220": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "rockingham": {
+    "2021": {
+      "106": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "113": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "126": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "285": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2022": {
+      "106": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "120": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "157/160": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2023": {
+      "106": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "120": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "126": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "150/152": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2024": {
+      "113": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "132": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 1,
+        "score": 11
+      },
+      "138": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "157/160": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "175/182": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "113": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "138": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "144/145": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "285": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "yadkin": {
+    "2021": {
+      "106": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "wilkes": {
+    "2021": {
+      "113": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "285": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2022": {
+      "113": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2023": {
+      "120": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2024": {
+      "165/170": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "106": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "165/170": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "union": {
+    "2021": {
+      "120": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 1,
+        "score": 11
+      },
+      "132": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "138": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "157/160": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "165/170": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2024": {
+      "190/195": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "190/195": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "cabarrus": {
+    "2021": {
+      "120": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "157/160": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "165/170": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "190/195": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "215/220": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2022": {
+      "113": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "126": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "132": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "165/170": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "215/220": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2023": {
+      "106": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "126": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "132": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "215/220": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2024": {
+      "106": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "126": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "144/145": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "157/160": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "285": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "132": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "175/182": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "rowan": {
+    "2021": {
+      "120": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "138": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "144/145": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2022": {
+      "190/195": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "285": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2023": {
+      "215/220": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "randolph": {
+    "2021": {
+      "126": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "175/182": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2022": {
+      "138": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "175/182": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2023": {
+      "113": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "120": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "285": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2024": {
+      "120": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "165/170": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "215/220": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2025": {
+      "106": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "126": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "138": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "165/170": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "175/182": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "lincoln": {
+    "2021": {
+      "132": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2022": {
+      "106": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "126": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2023": {
+      "132": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "144/145": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "175/182": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "215/220": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2024": {
+      "150/152": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "285": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2025": {
+      "150/152": {
+        "first": 0,
+        "second": 1,
+        "third": 1,
+        "mow": 0,
+        "score": 3
+      },
+      "175/182": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "stanley": {
+    "2021": {
+      "132": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "150/152": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "haywood": {
+    "2021": {
+      "138": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "150/152": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "surry": {
+    "2021": {
+      "144/145": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2022": {
+      "144/145": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "150/152": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 1,
+        "score": 11
+      },
+      "175/182": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2023": {
+      "150/152": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 1,
+        "score": 11
+      },
+      "157/160": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2024": {
+      "113": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "onslow": {
+    "2021": {
+      "144/145": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2023": {
+      "157/160": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "175/182": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2024": {
+      "138": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "gaston": {
+    "2021": {
+      "150/152": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2024": {
+      "144/145": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "157/160": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "dare": {
+    "2021": {
+      "175/182": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "orange": {
+    "2021": {
+      "190/195": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "pitt": {
+    "2021": {
+      "215/220": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2022": {
+      "175/182": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "rutherford": {
+    "2022": {
+      "113": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "165/170": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2023": {
+      "113": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "138": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "165/170": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2024": {
+      "126": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "132": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "150/152": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "126": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "132": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "157/160": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 1,
+        "score": 11
+      },
+      "190/195": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "stokes": {
+    "2022": {
+      "132": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "215/220": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "carteret": {
+    "2022": {
+      "138": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "burke": {
+    "2022": {
+      "144/145": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "150/152": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "madison": {
+    "2022": {
+      "190/195": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "transylvania": {
+    "2022": {
+      "285": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2023": {
+      "165/170": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "190/195": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2024": {
+      "165/170": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "190/195": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "chatham": {
+    "2023": {
+      "106": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "113": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2024": {
+      "106": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "120": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "126": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "175/182": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "215/220": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2025": {
+      "113": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "120": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "132": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "190/195": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "215/220": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "craven": {
+    "2023": {
+      "126": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "150/152": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "pasquotank": {
+    "2023": {
+      "132": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2024": {
+      "132": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "cleveland": {
+    "2023": {
+      "144/145": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "henderson": {
+    "2023": {
+      "144/145": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "150/152": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "138": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "granville": {
+    "2023": {
+      "175/182": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "franklin": {
+    "2023": {
+      "285": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2024": {
+      "106": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "120": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  },
+  "beaufort": {
+    "2024": {
+      "144/145": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      },
+      "157/160": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    },
+    "2025": {
+      "106": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "126": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      },
+      "144/145": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "caldwell": {
+    "2024": {
+      "150/152": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    },
+    "2025": {
+      "120": {
+        "first": 0,
+        "second": 1,
+        "third": 0,
+        "mow": 0,
+        "score": 2
+      }
+    }
+  },
+  "wayne": {
+    "2024": {
+      "285": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    },
+    "2025": {
+      "285": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      }
+    }
+  },
+  "rudolph": {
+    "2025": {
+      "215/220": {
+        "first": 1,
+        "second": 0,
+        "third": 0,
+        "mow": 0,
+        "score": 3
+      },
+      "285": {
+        "first": 0,
+        "second": 0,
+        "third": 1,
+        "mow": 0,
+        "score": 1
+      }
+    }
+  }
+}
